@@ -1,0 +1,6 @@
+Prerequisite Installations
+
+For mac  - MAMP
+For PC - XAMP/WAMP
+
+After doing so make sure you have the mysql and apache Running ! 
