@@ -1,0 +1,8 @@
+Contents :
+
+1) Introduction to the CMS.
+2) Introduction to Drupal.
+3) Installation and Configuration of Drupal.
+4) Modules/Themes Installation.
+5) Understanding Folder Structure.
+6) Developing your First Website.
